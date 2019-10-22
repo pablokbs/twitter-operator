@@ -1,0 +1,8 @@
+apiVersion: webapp.my.domain/v1
+kind: Tweets
+metadata:
+  name: tweets-sample1
+spec:
+  # Add fields here
+  message: "Hola #nerdearla, impresionante"
+isautocreated: 0

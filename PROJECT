@@ -1,0 +1,7 @@
+version: "2"
+domain: my.domain
+repo: twitter
+resources:
+- group: webapp
+  version: v1
+  kind: Tweets
